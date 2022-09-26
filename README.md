@@ -1,4 +1,7 @@
-# Book_Recommender_app
+# Product_Recommender_app
+
+In this application, we take book as product.
+
 ## Popularity and collaborative filtering based book recommended system
 
 This application is a recommender system built for book lovers. 
